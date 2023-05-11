@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+/* .my-class {
+  background-color: red;
+} */
+
+.profile {
+  border: 1px solid black;
+  width: 280px;
+  margin: 0 auto;
+  height: 280px;
+  border-radius: 50%;
+}
+img {
+  margin: 20px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
